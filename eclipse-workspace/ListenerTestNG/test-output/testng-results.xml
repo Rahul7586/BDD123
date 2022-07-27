@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69" started-at="2022-07-27T10:46:56 IST" finished-at="2022-07-27T10:46:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69" started-at="2022-07-27T10:46:56 IST" finished-at="2022-07-27T10:46:56 IST">
+      <class name="ListenerTestNG.TestCases">
+        <test-method status="PASS" signature="login()[pri:1, instance:ListenerTestNG.TestCases@4232c52b]" name="login" duration-ms="9" started-at="2022-07-27T10:46:56 IST" finished-at="2022-07-27T10:46:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="exit()[pri:2, instance:ListenerTestNG.TestCases@4232c52b]" name="exit" duration-ms="1" started-at="2022-07-27T10:46:56 IST" finished-at="2022-07-27T10:46:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- ListenerTestNG.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
