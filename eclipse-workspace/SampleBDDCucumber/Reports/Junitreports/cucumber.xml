@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.278">
+    <testcase classname="Login feature" name="Login &amp; landing on home page" time="0.039">
+        <system-out><![CDATA[Given Open browser and lunch appliaction....................................passed
+When Enter username & password..............................................passed
+And Click on login button...................................................passed
+Then land on home page......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login feature" name="Login &amp; landing on home page2" time="0.002">
+        <system-out><![CDATA[Given Open browser and lunch appliaction....................................passed
+When Enter username & password..............................................passed
+And Click on login button...................................................passed
+Then land on home page......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
